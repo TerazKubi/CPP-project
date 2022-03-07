@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1635972240 source:c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\src\film.cpp
+	"Film.h"
+
+1635972238 
+
+1635972238 c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\include\film.h
+	<string>
+	<iostream>
+
+1635954782 source:c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\main.cpp
+	<iostream>
+	"Plyta.h"
+	"Wypozyczalnia.h"
+
+1637444524 lnia.h"
+
+1635972159 c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\include\plyta.h
+	<string>
+	<iomanip>
+	"Film.h"
+
+1635973612 source:c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\src\plyta.cpp
+	"Plyta.h"
+
+1637444524 source:c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\src\wypozyczalnia.cpp
+	"Wypozyczalnia.h"
+
+1635973037 c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\include\wypozyczalnia.h
+	<map>
+	<string>
+	<iomanip>
+	<iostream>
+	"Plyta.h"
+	"Wypozyczenie.h"
+
+1635971365 nie.h"
+
+1635971507 c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\include\wypozyczenie.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1635971365 source:c:\users\kubi\desktop\po projekt cpp\wypozyczalniaprojekt\src\wypozyczenie.cpp
+	"Wypozyczenie.h"
+
+1635954782 source:/home/terazkubi/Desktop/WypozyczalniaProjekt/main.cpp
+	<iostream>
+	"Plyta.h"
+	"Wypozyczalnia.h"
+
+1635972159 /home/terazkubi/Desktop/WypozyczalniaProjekt/include/Plyta.h
+	<string>
+	<iomanip>
+	"Film.h"
+
+1635972238 /home/terazkubi/Desktop/WypozyczalniaProjekt/include/Film.h
+	<string>
+	<iostream>
+
+1638025601 /home/terazkubi/Desktop/WypozyczalniaProjekt/include/Wypozyczalnia.h
+	<map>
+	<string>
+	<iomanip>
+	<iostream>
+	<climits>
+	"Plyta.h"
+	"Wypozyczenie.h"
+
+1635971507 /home/terazkubi/Desktop/WypozyczalniaProjekt/include/Wypozyczenie.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1635972240 source:/home/terazkubi/Desktop/WypozyczalniaProjekt/src/Film.cpp
+	"Film.h"
+
+1635973612 source:/home/terazkubi/Desktop/WypozyczalniaProjekt/src/Plyta.cpp
+	"Plyta.h"
+
+1638022555 source:/home/terazkubi/Desktop/WypozyczalniaProjekt/src/Wypozyczalnia.cpp
+	"Wypozyczalnia.h"
+
+1635971365 source:/home/terazkubi/Desktop/WypozyczalniaProjekt/src/Wypozyczenie.cpp
+	"Wypozyczenie.h"
+
+1635954782 source:c:\users\kubi\desktop\wypozyczalniaprojekt\main.cpp
+	<iostream>
+	"Plyta.h"
+	"Wypozyczalnia.h"
+
+1635972159 c:\users\kubi\desktop\wypozyczalniaprojekt\include\plyta.h
+	<string>
+	<iomanip>
+	"Film.h"
+
+1635972238 c:\users\kubi\desktop\wypozyczalniaprojekt\include\film.h
+	<string>
+	<iostream>
+
+1638025601 c:\users\kubi\desktop\wypozyczalniaprojekt\include\wypozyczalnia.h
+	<map>
+	<string>
+	<iomanip>
+	<iostream>
+	<climits>
+	"Plyta.h"
+	"Wypozyczenie.h"
+
+1635971507 c:\users\kubi\desktop\wypozyczalniaprojekt\include\wypozyczenie.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1635972240 source:c:\users\kubi\desktop\wypozyczalniaprojekt\src\film.cpp
+	"Film.h"
+
+1635973612 source:c:\users\kubi\desktop\wypozyczalniaprojekt\src\plyta.cpp
+	"Plyta.h"
+
+1638025800 source:c:\users\kubi\desktop\wypozyczalniaprojekt\src\wypozyczalnia.cpp
+	"Wypozyczalnia.h"
+
+1635971365 source:c:\users\kubi\desktop\wypozyczalniaprojekt\src\wypozyczenie.cpp
+	"Wypozyczenie.h"
+
